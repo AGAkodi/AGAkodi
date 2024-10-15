@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AGAkodi
-- 👀 I’m interested in Software Programming 
-- 🌱 I’m currently learning Software Programming 
-- 💞️ I’m looking to collaborate on ALX
-- 📫 How to reach me akodigideonakodi@gmail.com
+- 👋 Hi, I’m Monarch
+- 👀 I’m interested in General Developments 
+- 🌱 I’m currently honing my skills in JavaScript and Tailwind CSS
+- 💞️ I’m looking to collaborate on Jobs 
+- 📫 How to reach me https://linktr.ee/onarch_7
 
 <!---
 AGAkodi/AGAkodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
